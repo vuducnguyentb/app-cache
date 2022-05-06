@@ -1,2 +1,1 @@
-# app-cache
-app test cache
+example caching laravel
